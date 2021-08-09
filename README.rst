@@ -9,4 +9,4 @@ The contribution is directly related to the cross-section, which is itself a fun
 
 .. math::
   
-  \\frac{d_A(z_l,z_s)}{d_A(z_l)d_A(z_s)}
+  \frac{d_A(z_l,z_s)}{d_A(z_l)d_A(z_s)}

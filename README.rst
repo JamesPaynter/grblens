@@ -12,4 +12,4 @@ The contribution is directly related to the cross-section, which is itself a fun
   \frac{d_A(z_l,z_s)}{d_A(z_l)d_A(z_s)}
 
 
-https://mybinder.org/v2/gh/JamesPaynter/grblens/master
+https://mybinder.org/v2/gh/JamesPaynter/grblens/main

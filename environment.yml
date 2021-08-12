@@ -1,0 +1,8 @@
+name: environment
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - math
+  - decimal
+  - PyGRB

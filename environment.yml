@@ -3,4 +3,3 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - gbm
